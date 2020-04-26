@@ -10746,10 +10746,8 @@ article.article .article-meta {
   margin-bottom: 0.5rem;
 }
 article.article .content {
-  font-size: 1.1rem;
-}
-article.article .content a {
   word-wrap: break-word;
+  font-size: 1.1rem;
 }
 article.article .content h1 {
   font-size: 1.75em;
@@ -10865,6 +10863,11 @@ article.article .content blockquote footer strong + cite {
 }
 .navbar-logo img {
   max-height: 1.75rem;
+}
+.blog-logo {
+  color: #6a5acd;
+  font-size: 1.5em;
+  padding-right: 2em;
 }
 @media screen and (max-width: 768px) {
   footer.footer .level-start {
